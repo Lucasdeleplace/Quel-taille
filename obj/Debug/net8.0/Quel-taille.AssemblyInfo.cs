@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quel-taille")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe4d6ca8364c7d6052d96f8c2ba892d33ce7ddd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quel-taille")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quel-taille")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

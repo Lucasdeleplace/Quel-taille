@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\bin\Debug\net8.0\Quel-taille.exe
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\bin\Debug\net8.0\Quel-taille.deps.json
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\bin\Debug\net8.0\Quel-taille.runtimeconfig.json
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\bin\Debug\net8.0\Quel-taille.dll
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\bin\Debug\net8.0\Quel-taille.pdb
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.sourcelink.json
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.dll
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\refint\Quel-taille.dll
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.pdb
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\Quel-taille.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Simplon-Back\Quel-taille\obj\Debug\net8.0\ref\Quel-taille.dll
